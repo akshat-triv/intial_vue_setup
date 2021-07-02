@@ -1,4 +1,4 @@
-# conversation_flowchart_creator
+# Initial Vue App Setup
 
 ## Project setup
 ```
